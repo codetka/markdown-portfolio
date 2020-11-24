@@ -1,3 +1,3 @@
-* Life 
-* Family
-* Photography
+- Life 
+- Family
+- Photography
