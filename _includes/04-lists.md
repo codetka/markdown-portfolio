@@ -1,3 +1,4 @@
-Life 
-Family
-Photography
+My favorite things
+* Life 
+* Family
+* Photography
